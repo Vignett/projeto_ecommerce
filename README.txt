@@ -1,0 +1,1 @@
+banco de dados baseado no contexto de ecommerce, com referência no modelo ER. Foram adicionadas algumas queries de consulta quanto aos clientes, suas compras, disponibilidade de mercadoria, fornecedores e suas localidades.
